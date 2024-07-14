@@ -6,3 +6,7 @@ Some notes to follow: -
 2) Place the Animals images' directory inside the project directory
 3) Place the wildlifeIdentifier.ipynb file inside the project directory
 4) Open the ipynb file in google collab and run the code shells
+
+This was a helpful project for me to learn some aspects of Convolutional Neural Networks.
+1) It helped me understand why data augmentation is quite important for small datasets
+2) It helped me understand how different layers affect the training of the model
