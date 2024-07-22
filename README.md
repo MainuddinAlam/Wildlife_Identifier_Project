@@ -11,4 +11,4 @@ This was a helpful project for me to learn some aspects of Convolutional Neural 
 1) It helped me understand why data augmentation is quite important for small datasets
 2) It helped me understand how different layers affect the training of the model
 
-Note to myself:- Need to update it
+Note to myself:- It needs updating and more testing. I will do it in the near future.
